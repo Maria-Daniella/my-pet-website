@@ -1,0 +1,17 @@
+h1 {
+  color: pink;
+  text-align: center;
+  background-color: grey;
+
+}
+h2 {
+  color: purple;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  text-decoration: italic;
+}
+ul {
+  line-height: 40px;
+}
